@@ -1,0 +1,12 @@
+h1{
+
+    color: aqua;
+    background-color: azure;
+}
+p{
+
+    border: 1px solid black;
+    border: 10px solid black;
+    height: 50%;
+    width: 50%;
+}
